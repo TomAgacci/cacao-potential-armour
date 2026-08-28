@@ -13,6 +13,82 @@ Attribution‑NonCommercial‑NoDerivatives 4.0 International License.
 You may share this file with attribution, but you may not modify
 it or use it commercially.
 
+--------------
+
+Target 6 gpa
+
+README — HSN MAX‑GPa MATERIAL
+=============================
+
+Goal:
+-----
+Produce a bio‑mineral composite targeting:
+- Elastic Modulus: up to ~6 GPa (maximum theoretical stiffness)
+- Compressive Strength: 4–5 MPa (HSN upper band)
+
+Batch Size:
+-----------
+1 kg total mix.
+
+Materials (Measured):
+---------------------
+- Hydrated Lime: 480 g
+- Fine Silica Sand: 480 g
+- Hemp Hurds (ultra-fine): 20 g
+- Cacao Resin: 15 g
+- Hemp Protein Powder: 5 g
+- Water: 35–50 mL (very low)
+- Salt (NaCl): 4–8 g dissolved into water
+
+Ratios (By Mass):
+-----------------
+- Lime: 48%
+- Sand: 48%
+- Organics (hurds + resin + protein): 3–4%
+- Water: 3.5–5%
+- Salt: 1–2% of binder mass
+
+Mixing Procedure (Timed):
+-------------------------
+1. Lime + sand: mix 90 seconds.
+2. Add ultra-fine hurds: mix 60 seconds.
+3. Add resin + protein: mix 2 minutes.
+4. Add brine slowly over 2 minutes.
+5. Final kneading: 1–2 minutes.
+Total mixing time: 6–8 minutes.
+
+Compaction:
+-----------
+- Use 3–4 MPa press pressure OR 40–60 kg manual force per layer.
+- Compact in 3 layers.
+- Hold pressure 15–25 seconds per layer.
+- Goal: maximum density, minimal voids.
+
+Curing:
+-------
+Stage 1 (Humid Cure):
+- 24–48 hours
+- 70–90% humidity
+- 18–24°C
+
+Stage 2 (Air Carbonation):
+- 14–28 days
+- Moderate airflow
+- 18–26°C
+
+Expected Output:
+----------------
+- Elastic Modulus: up to ~6 GPa (HSN theoretical)
+- Compressive Strength: 4–5 MPa
+
+License:
+--------
+This README is original and released under the
+Creative Commons BY‑NC‑ND 4.0 License.
+
+END OF README
+
+
 INSTRUCTIONS WITH MEASUREMENTS & TIMING
 ---------------------------------------
 
