@@ -14,6 +14,147 @@ You may share this file with attribution, but you may not modify
 it or use it commercially.
 
 --------------
+Shatter resistance
+
+HSN APEX PANEL MIX — HIGH STIFFNESS + MAX SHATTER RESISTANCE (WITHIN SYSTEM)
+
+TARGET PROPERTIES
+- Elastic modulus: ~6 GPa (dense, mineral-heavy)
+- Compressive strength: ~3–5 MPa
+- Behavior: hard, stiff outer face + tough, crack-bridging inner core
+- Use: normal to moderately high mechanical impacts, not extreme projectiles
+
+------------------------------------------------------------
+1. MATERIALS (PER ~1 KG PANEL, SHELL + CORE)
+------------------------------------------------------------
+
+SHELL (OUTER 2–3 mm — STIFF FACE)
+- Lime (very fine, high-reactivity): 480 g
+- Silica sand (fine, well-graded): 480 g
+- Water: 30–40 mL
+- Salt Mix 1 (NaCl or similar): 6–8 g, fully dissolved in water
+
+CORE (INNER 2–3 mm — TOUGHNESS BOOSTED)
+- Lime: 420 g
+- Silica sand: 420 g
+- Fine hemp hurds: 20–30 g
+- Long bast fibers (hemp/flax, 10–30 mm): 50–80 g
+- Cacao resin: 20–30 g
+- Hemp protein: 10–15 g
+- Water: 40–60 mL
+- Salt Mix 2–3 (NaCl + optional second benign salt): 6–10 g total, fully dissolved
+
+------------------------------------------------------------
+2. SHELL MIX PROCEDURE (HIGH STIFFNESS)
+------------------------------------------------------------
+
+1) Dry blend:
+   - Combine 480 g lime + 480 g sand.
+   - Mix 90–120 seconds until uniform.
+
+2) Brine prep:
+   - Dissolve 6–8 g Salt Mix 1 in 30–40 mL water.
+   - Stir 30–45 seconds until fully dissolved.
+
+3) Hydration:
+   - Add brine slowly over ~2 minutes while mixing.
+   - Target a very stiff, packable, non-slumping consistency.
+
+4) Final knead:
+   - Knead 1–2 minutes (hand or mechanical).
+   - Result: dense, almost dry-feeling mix that still packs under pressure.
+
+------------------------------------------------------------
+3. CORE MIX PROCEDURE (TOUGH INNER NETWORK)
+------------------------------------------------------------
+
+1) Dry blend base:
+   - Combine 420 g lime + 420 g sand.
+   - Mix ~90 seconds.
+
+2) Add fine hemp hurds:
+   - Add 20–30 g hurds.
+   - Mix ~60 seconds to distribute evenly.
+
+3) Add long bast fibers:
+   - Gradually add 50–80 g fibers (10–30 mm length).
+   - Mix 2–3 minutes to form a continuous network (avoid clumps).
+
+4) Resin + protein interface:
+   - Warm cacao resin gently if needed to reduce viscosity.
+   - Add 20–30 g resin + 10–15 g hemp protein.
+   - Mix ~2 minutes, focusing on coating fibers and interfaces.
+
+5) Brine prep (Salt Mix 2–3):
+   - Dissolve 6–10 g total salt in 40–60 mL water.
+   - Stir 45–60 seconds until fully dissolved.
+
+6) Hydration:
+   - Add brine slowly over 2–3 minutes while mixing.
+   - Target: stiff but slightly more workable than shell mix, enough to pack around fibers.
+
+7) Final knead:
+   - Knead 2–3 minutes.
+   - Ensure fibers are embedded and wetted, not dry or floating.
+
+------------------------------------------------------------
+4. PANEL FORMING (TARGET THICKNESS ~5 mm)
+------------------------------------------------------------
+
+1) Mold setup:
+   - Use a flat mold with backing.
+   - Design for total thickness ~5 mm.
+
+2) Place core:
+   - Pack the core mix into the mold to form inner 2–3 mm.
+   - Lightly compact by hand to remove obvious voids.
+
+3) Place shell:
+   - Pack the shell mix on top to form outer 2–3 mm.
+   - Ensure full contact between shell and core (no visible interface gap).
+
+4) Compaction:
+   - Apply high pressure:
+     - Approx. 40–60 kg manual equivalent or ~3–4 MPa press pressure.
+   - Hold 20–30 seconds.
+   - Goal: maximum density, minimal voids, strong shell–core bond.
+
+------------------------------------------------------------
+5. CURING PROFILE
+------------------------------------------------------------
+
+Stage 1 — Humid cure:
+- Duration: 24–48 hours
+- Conditions: 70–90% relative humidity, 18–24°C
+- Keep panel flat and supported; avoid drafts and rapid drying.
+
+Stage 2 — Air carbonation:
+- Duration: 14–28 days
+- Conditions: good airflow, 18–26°C
+- Avoid thermal shocks and very rapid drying.
+- Allow full mineral skeleton development and stabilization of organic phase.
+
+------------------------------------------------------------
+6. EXPECTED BEHAVIOR (WITHIN HSN SYSTEM)
+------------------------------------------------------------
+
+- Stiffness:
+  - Shell drives modulus toward ~6 GPa in dense, well-cured panels.
+
+- Strength:
+  - Overall compressive strength in ~3–5 MPa band, depending on curing quality.
+
+- Shatter resistance:
+  - Shell spreads impact load and resists surface damage.
+  - Core’s fiber/resin network bridges cracks and absorbs energy.
+  - Fine hurds and graded salt mixes help disrupt crack paths and tune microstructure.
+
+- Use case:
+  - Designed for high stiffness and maximum shatter resistance within the lime/sand + hemp + resin system.
+  - Suitable for normal and moderately high mechanical impacts, not guaranteed against extreme high-speed projectiles.
+
+
+--------------
 
 Target 6 gpa
 
