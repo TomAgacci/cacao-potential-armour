@@ -1,3 +1,8 @@
+This is untested and if you add aramid, UHMWPE, fiberglass to the mix or silicone dioxide there is a greater hope through deducing in the matrix the actual mix
+which has already been discovered, which is stronger than Kevlar. The target was 4000mph projectiles. It goes really far but does not promise Kevlar Strength even
+with the tactile composition.
+
+
 README — HSN FULL‑OPTIMIZED 3–5 MPa MATERIAL (MEASURED VERSION)
 ===============================================================
 
